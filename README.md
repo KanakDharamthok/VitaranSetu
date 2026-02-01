@@ -73,4 +73,36 @@ offering real-time order tracking, inventory management, and delivery coordinati
 - **Styling:** Bootstrap / Tailwind CSS  
 - **Backend:** Node.js, Express  
 - **Database:** MySQL / MongoDB  
-- **V**
+- **Version Control:** Git & GitHub  
+
+---
+
+## 🎯 Future Enhancements
+
+- GPS-based live delivery tracking  
+- AI-based demand forecasting  
+- Mobile app for delivery helpers  
+- Payment & invoice system  
+- WhatsApp / SMS notifications  
+
+---
+
+## 🌟 Key Benefits
+
+- Supports multiple product domains  
+- Real-world distribution workflow  
+- Scalable and industry-ready  
+- Ideal for **SIH, hackathons, and resumes**
+
+---
+
+## 📄 License
+
+Academic & demonstration use only © 2026
+
+---
+
+## 👤 Author
+
+**Kanak Dharamthok**  
+CSE (AIML) | AI • Web Development • System Design

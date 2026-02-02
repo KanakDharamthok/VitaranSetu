@@ -15,7 +15,7 @@ unified system, ensuring transparency, efficiency, and real-time coordination ac
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 
 - Manual and inefficient order handling  
 - Poor inventory visibility  
